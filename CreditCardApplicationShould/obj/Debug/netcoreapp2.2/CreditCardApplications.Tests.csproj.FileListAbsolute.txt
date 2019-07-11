@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.AssemblyInfo.cs
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.Tests.deps.json
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.Tests.runtimeconfig.json
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.Tests.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.Tests.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.Tests.pdb
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\bin\Debug\netcoreapp2.2\CreditCardApplications.pdb
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.csproj.CopyComplete
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.dll
+C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplicationShould\obj\Debug\netcoreapp2.2\CreditCardApplications.Tests.pdb
