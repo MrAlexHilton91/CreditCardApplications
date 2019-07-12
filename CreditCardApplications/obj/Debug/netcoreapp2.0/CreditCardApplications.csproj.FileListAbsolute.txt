@@ -9,3 +9,14 @@ C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplications\obj\Deb
 C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfo.cs
 C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.dll
 C:\Users\Alex\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.deps.json
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.json
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.runtimeconfig.dev.json
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.0\CreditCardApplications.pdb
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csprojAssemblyReference.cache
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.AssemblyInfo.cs
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.dll
+C:\Users\ahilton\source\repos\CreditCardApplications\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.0\CreditCardApplications.pdb

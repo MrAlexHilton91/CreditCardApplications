@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj": {}
+    "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj": {
+    "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj",
         "projectName": "CreditCardApplications.Tests",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplicationShould\\obj\\",
+        "projectPath": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplicationShould\\CreditCardApplications.Tests.csproj",
+        "packagesPath": "C:\\Users\\ahilton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplicationShould\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahilton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj": {
-                "projectPath": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj"
+              "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj": {
+                "projectPath": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj"
               }
             }
           }
@@ -78,20 +78,20 @@
         }
       }
     },
-    "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj": {
+    "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj",
+        "projectUniqueName": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj",
         "projectName": "CreditCardApplications",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\CreditCardApplications\\CreditCardApplications\\obj\\",
+        "projectPath": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications.csproj",
+        "packagesPath": "C:\\Users\\ahilton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahilton\\source\\repos\\CreditCardApplications\\CreditCardApplications\\CreditCardApplications\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahilton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
